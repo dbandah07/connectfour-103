@@ -13,3 +13,6 @@ The project emphasizes **modular program design, 2D array manipulation, and cont
 - Automatic turn switching between players
 - Win detection across horizontal, vertical, and diagonal directions
 - Console-based visualization of the game board
+
+## Notes
+Completed during Spring 2025. 
